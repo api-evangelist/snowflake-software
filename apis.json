@@ -1,0 +1,52 @@
+{
+    "name": "Snowflake Software",
+    "description": "Making Aviation Data Accessible and Easy to Use. The Laminar Data Platform manages flight, weather and aeronautical data to unlock operational value.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28183-snowflakesoftware-com.jpg",
+    "tags": [
+        "databases",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/snowflake-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Snowflake Software",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28183-snowflakesoftware-com.jpg",
+            "humanURL": "https:\/\/snowflakesoftware.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/snowflake-software-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/snowflake-computing"
+        },
+        {
+            "type": "Email",
+            "url": "20info@snowflakesoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@snowflakesoftware.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sflakesoftware"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/snowflakesoftware.com"
+        }
+    ]
+}
